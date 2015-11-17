@@ -1,0 +1,23 @@
+name: drupalnyc
+favicon: null
+layout_spectrum: 0.10837340215221047
+typography_spectrum: 0.7949181233998388
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9118020082823932
+  lightness: 0.6150923448149115
+  saturation: 0.37699974211864173
+  rhythmicContrast: 0.707147418987006
+purpose: []
